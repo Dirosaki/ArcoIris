@@ -89,7 +89,7 @@ h1{
             width: 12px;
             animation-name: girar;
             animation-duration: 2s;
-            transform-origin: bottom; /*importante*/
+            transform-origin: bottom;
         }
     }
     
